@@ -1,0 +1,113 @@
+.navbar{
+  
+   background-color: chocolate;
+}
+
+
+
+.BB{
+    margin-left: 50px;
+    color: rgb(255, 244, 244);
+}
+#home{
+    width: 100%;
+    height: 100%;
+
+  
+
+    background-image: url(image/coffa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 88%;
+}
+#home .content {
+    padding-top: 210px;
+    margin-left: 56px;
+}
+#home .content h1{
+    font-size: 50px;
+    color: white;
+
+}
+#home .content p{
+   margin-top: 10px;
+   color: white;
+
+}
+.heading{
+    text-align: center;
+    color: black;
+   font-size: 50px;
+}
+.heading span{
+    color: aqua;
+}  
+
+#about .card img{
+    border-radius: 50px;
+   
+ }
+#about .btn {
+   width: 200px; 
+   height: 36px;
+
+} 
+ #about .btn :hover{
+    background-color: brown;
+    color: white;
+ }
+
+
+ .cc{
+    width: 10px;
+    height: 5px;
+ }
+
+ .image{
+    width: 70px;
+    height: 70px;
+ }
+
+ .heading3{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+ }
+ .heading3 span{
+    color: chocolate;
+ }
+ #contact input{
+    width: 360px;
+   }
+   
+.inp{
+    margin-bottom: 30px;
+}
+
+#col{
+    width: 40%;
+    height:56vb ;
+    background: chocolate;
+    margin-top: 70px;
+}
+#col1{
+    margin-top: 100px;
+}
+#blogs .heading4{
+    font-size: 50px;
+    text-align: center;
+}
+#blogs .container h1{
+    font-size: 20px;
+    color: rgb(226, 156, 64);
+}
+#blogs .btn{
+    color: rgb(212, 206, 201);
+   background-color: chocolate;
+   margin-left: 50px;
+}
+
+.btnn{
+    color: aliceblue;
+    background-color: chocolate;
+}
